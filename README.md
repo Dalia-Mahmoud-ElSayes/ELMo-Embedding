@@ -1,4 +1,4 @@
-# ELMo-Embedding
+# ELMo-Embedding [![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ELMo-Embedding.svg?style=flat-square)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ELMo-Embedding)
 Using ELMo Embedding on arabic text 
 
 **In ELMo Embedding.ipynb you can find:**
@@ -17,4 +17,4 @@ I intialized and wrote ELMo code to embed texts and calculates the cosine simila
 
 you will find a quick explanation(survey) on how ELMo works
 
-[![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ELMo-Embedding.svg?style=flat-square)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ELMo-Embedding)
+
